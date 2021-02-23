@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  mychart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-02-23T02:00:15.12826485Z"
+    description: A Helm chart for Kubernetes
+    digest: 98f9a2b410cc72b0482e8552761e3c1cf5c30479f27e3b0ff9c83a23f51a62fb
+    name: mychart
+    type: application
+    urls:
+    - https://atomanv.github.io/brixcharts/mychart-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-02-23T02:00:15.127466542Z"
